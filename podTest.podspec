@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name        = 'podTest'
-s.version     = '1.0.0'
+s.version     = '0.0.1'
 s.authors     = { 'lmtsyyy' => '1098481983@qq.com' }
 s.homepage    = 'https://github.com/lmtsyyy/podTest'
 s.summary     = 'pod测试'
